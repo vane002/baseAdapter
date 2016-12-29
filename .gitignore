@@ -28,3 +28,9 @@ proguard/
 *.iws
 .idea/
 
+.gradle/
+adapter/build/
+adapter/libs/
+adapter/src/main/res/drawable/
+build/
+sample/
